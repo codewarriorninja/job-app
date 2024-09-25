@@ -14,16 +14,16 @@ This project is a simple **Job Listing Web Application** built using React and J
 ## Features
 
 - View a list of available job listings
-- add delete jobs
+- add delete and update jobs
 - Responsive design, mobile-friendly
 - Built-in mock backend using JSON Server
 
 ## Technologies Used
 
-- **Frontend:** React, React Router, Tailwind CSS (or any CSS framework you're using)
-- **Backend:** JSON Server (mock API)
-- **State Management:** React Hooks (useState, useEffect)
-- **Routing:** React Router for page navigation
+- Frontend: React, React Router, Tailwind CSS (or any CSS framework you're using)
+- Backend: JSON Server (mock API)
+- State Management: React Hooks (useState, useEffect)
+- Routing: React Router for page navigation
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ Make sure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/job-listing-app.git
+   git clone https://github.com/codewarriorninja/job-listing-app.git
    cd job-listing-app
    ```
 
@@ -63,8 +63,6 @@ Make sure you have the following installed on your system:
    npm start
    ```
 
-   The app should now be running on `http://localhost:3000`.
-
 ## Project Structure
 
 - `src/`: Contains all the React components and pages
@@ -75,13 +73,10 @@ Make sure you have the following installed on your system:
 
 ## Usage
 
-1. **Viewing Jobs:**
+1. Viewing Jobs:
    On the homepage, you can browse the available job listings. Each job card shows the title, company name, location, and type (e.g., full-time, part-time).
 
-2. **Searching and Filtering:**
-   Use the search bar to search for jobs by title or company. Use filters to narrow down the job listings.
-
-3. **Job Details:**
+2. Job Details:
    Click on a job to view more detailed information about the position, including the description and application process.
 
 ## JSON Server Data
