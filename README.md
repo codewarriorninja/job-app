@@ -40,7 +40,7 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/codewarriorninja/job-listing-app.git
-   cd job-listing-app
+   cd job-app
    ```
 
 2. **Install dependencies:**
