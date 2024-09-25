@@ -126,3 +126,4 @@ The job data is stored in a `jobs.json` file under the `data/` folder. Here's a 
 "# job-app" 
 "# job-app" 
 "# job-app" 
+# job-app
