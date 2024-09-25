@@ -110,9 +110,3 @@ The job data is stored in a `jobs.json` file under the `data/` folder. Here's a 
 - Create an admin panel to add, edit, or delete job listings
 - Add sorting functionality for job listings (e.g., by date or location)
 
-"# job-listing-web-app" 
-"# job-listing-web-app" 
-"# job-app" 
-"# job-app" 
-"# job-app" 
-# job-app
