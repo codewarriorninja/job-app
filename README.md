@@ -7,10 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Here’s a template for your job listing web app README. You can modify specific details to fit your project:
-
----
-
 # Job Listing Web App
 
 This project is a simple **Job Listing Web Application** built using React and JSON Server. The app allows users to view fetched from a mock backend.
