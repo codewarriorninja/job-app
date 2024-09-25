@@ -20,7 +20,7 @@ This project is a simple **Job Listing Web Application** built using React and J
 
 ## Technologies Used
 
-- Frontend: React, React Router, Tailwind CSS (or any CSS framework you're using)
+- Frontend: React, React Router, Tailwind CSS
 - Backend: JSON Server (mock API)
 - State Management: React Hooks (useState, useEffect)
 - Routing: React Router for page navigation
@@ -36,20 +36,20 @@ Make sure you have the following installed on your system:
 
 ### Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/codewarriorninja/job-listing-app.git
+   git clone https://github.com/codewarriorninja/job-app.git
    cd job-app
    ```
 
-2. **Install dependencies:**
+2. Install dependencies:
 
    ```bash
    npm install
    ```
 
-3. **Run the JSON Server:**
+3. Run the JSON Server:
 
    JSON Server will act as the mock backend API for job listings.
 
@@ -57,18 +57,16 @@ Make sure you have the following installed on your system:
    npx json-server --watch data/jobs.json --port 8000
    ```
 
-4. **Run the development server:**
+4. Run the development server:**
 
    ```bash
    npm start
    ```
 
-## Project Structure
+ Project Structure
 
 - `src/`: Contains all the React components and pages
   - `components/`: Reusable components (e.g., JobCard, Navbar)
-  - `pages/`: Pages like Home, JobDetails
-  - `services/`: API calls to fetch data from the JSON server
 - `data/jobs.json`: Mock job listings stored as JSON
 
 ## Usage
